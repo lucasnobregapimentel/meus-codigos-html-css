@@ -1,0 +1,22 @@
+body {
+    padding-bottom: 500px;
+}
+
+div {
+    padding-bottom: 10px;
+}
+
+div input,
+div label {
+    display: block;
+}
+
+.radio,
+.radio label,
+.radio input {
+    display: inline-block;
+}
+
+.checkbox {
+    display: flex;
+}
